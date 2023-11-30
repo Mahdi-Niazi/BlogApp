@@ -43,8 +43,14 @@
 
 ### Key Features <a name="key-features"></a>
 
+
 - **Comment**
 - **Like**
+
+- **Posts**
+- **Comments**
+- **Likes**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
